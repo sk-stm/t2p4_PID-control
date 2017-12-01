@@ -1,4 +1,4 @@
-# **Implementation PID-controll**
+# **Udacity Term 2 Project 4 PID-controll**
 
 ## Theoretical discussion
 The PID controll consists of 3 parts. P, I and D controller parameters. I use this controller to control the steering angle of the car while it drives throug the track.
